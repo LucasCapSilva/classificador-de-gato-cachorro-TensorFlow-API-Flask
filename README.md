@@ -1,6 +1,6 @@
 # Classificador-de-gato-cachorro-TensorFlow-API-Flask
 
-## install dependencies
+## Install dependencies
 
 activate classCatDog
 
