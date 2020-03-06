@@ -6,6 +6,7 @@ import tensorflow as tf
 
 from scipy.misc import imread, imsave
 from tensorflow.keras.datasets import fashion_mnist
+from flask import Flask, request, jsonify
 from flask import Flask, flash, request, redirect, url_for
 from werkzeug.utils import secure_filename
 
